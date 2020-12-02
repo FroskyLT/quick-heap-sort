@@ -1,0 +1,7 @@
+﻿  quickNHeapSort.cpp
+D:\code\projects\VS projects\quickNHeapSort\quickNHeapSort\quickNHeapSort.cpp(62,20): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  quickNHeapSort.vcxproj -> D:\code\projects\VS projects\quickNHeapSort\Debug\quickNHeapSort.exe
